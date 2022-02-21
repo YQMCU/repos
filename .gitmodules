@@ -6,3 +6,7 @@
 	path = subs/tutorial/rtspserver
 	url = https://github.com/lihuan545890/rtspserver
 	branch = master
+[submodule "subs/openutil/base64"]
+	path = subs/openutil/base64
+	url = https://github.com/zhicheng/base64.git
+	branch = master
