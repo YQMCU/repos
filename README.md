@@ -29,8 +29,14 @@ https://github.com/XinLiGH/RingBuffer.git
 
 基于C的，模仿kfifo实现的环形缓冲存储结构
 
-# [mongoose](https://github.com/yqmcu/repos/tree/main/subs/openutil)
+## [mongoose](https://github.com/yqmcu/repos/tree/main/subs/openutil)
 
 https://github.com/cesanta/mongoose.git
 
 基于C语言的HTTP(S)/MQTT/WebSocket的服务器，C,ws,mqtt,http(s)
+
+## [ini_parser](https://github.com/yqmcu/repos/tree/main/subs/openutil)
+
+https://github.com/jhpy1024/ini_parser.git
+
+基于C++的单hpp文件实现的ini文件读取库

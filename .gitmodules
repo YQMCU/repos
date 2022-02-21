@@ -18,3 +18,7 @@
 	path = subs/openutil/mongoose
 	url = https://github.com/cesanta/mongoose.git
 	branch = master
+[submodule "subs/openutil/ini_parser"]
+	path = subs/openutil/ini_parser
+	url = https://github.com/jhpy1024/ini_parser.git
+	branch = master
