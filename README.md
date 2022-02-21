@@ -78,3 +78,24 @@ https://gitee.com/solym/Flat.qml.git
 https://github.com/leixiaohua1020/h264_analysis.git
 
 h264格式文件分析器 - by 雷霄骅 Lei Xiaohua
+
+# 书籍源码类
+
+## [learn-qt-5](https://github.com/yqmcu/repos/tree/main/subs/booksoft)
+
+https://github.com/PacktPublishing/Learn-qt-5.git
+
+Learn Qt 5
+
+Build modern, responsive cross-platform desktop applications
+with Qt, C++, and QML  
+
+by PacktPublish
+
+## [qt6book](https://github.com/yqmcu/repos/tree/main/subs/booksoft)
+
+https://github.com/qmlbook/qt6book.git
+
+
+[Qt6 QML Book - by official qt.io](https://www.qt.io/product/qt6/qml-book)
+

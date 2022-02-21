@@ -46,3 +46,11 @@
 	path = subs/binsoft/h264_analysis
 	url = https://github.com/leixiaohua1020/h264_analysis.git
 	branch = master
+[submodule "subs/booksoft/learn-qt-5"]
+	path = subs/booksoft/learn-qt-5
+	url = https://github.com/PacktPublishing/Learn-qt-5.git
+	branch = master
+[submodule "subs/booksoft/qt6book"]
+	path = subs/booksoft/qt6book
+	url = https://github.com/qmlbook/qt6book.git
+	branch = main
