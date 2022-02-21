@@ -38,3 +38,7 @@
 	path = subs/openutil/websocketpp
 	url = https://github.com/zaphoyd/websocketpp
 	branch = master
+[submodule "subs/openutil/Flat.qml"]
+	path = subs/openutil/Flat.qml
+	url = https://gitee.com/solym/Flat.qml
+	branch = master

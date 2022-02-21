@@ -64,3 +64,9 @@ https://github.com/aws/aws-sdk-cpp.git
 https://github.com/zaphoyd/websocketpp.git
 
 基于c++的复杂websocket开发库
+
+## [Flat.qml](https://github.com/yqmcu/repos/tree/main/subs/openutil)
+
+https://gitee.com/solym/Flat.qml.git
+
+基于 FlatUI 设计风格的 QML 组件库
