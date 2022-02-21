@@ -42,3 +42,7 @@
 	path = subs/openutil/Flat.qml
 	url = https://gitee.com/solym/Flat.qml
 	branch = master
+[submodule "subs/binsoft/h264_analysis"]
+	path = subs/binsoft/h264_analysis
+	url = https://github.com/leixiaohua1020/h264_analysis.git
+	branch = master

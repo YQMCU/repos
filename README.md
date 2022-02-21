@@ -70,3 +70,11 @@ https://github.com/zaphoyd/websocketpp.git
 https://gitee.com/solym/Flat.qml.git
 
 基于 FlatUI 设计风格的 QML 组件库
+
+# 工具类
+
+## [h264_analysis](https://github.com/yqmcu/repos/tree/main/subs/binsoft)
+
+https://github.com/leixiaohua1020/h264_analysis.git
+
+h264格式文件分析器 - by 雷霄骅 Lei Xiaohua
