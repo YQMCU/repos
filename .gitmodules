@@ -1,0 +1,4 @@
+[submodule "subs/tutorial/mediajourney"]
+	path = subs/tutorial/mediajourney
+	url = https://github.com/ayyb1988/mediajourney.git
+	branch = main
