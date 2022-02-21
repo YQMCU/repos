@@ -10,3 +10,7 @@
 	path = subs/openutil/base64
 	url = https://github.com/zhicheng/base64.git
 	branch = master
+[submodule "subs/openutil/RingBuffer"]
+	path = subs/openutil/RingBuffer
+	url = https://github.com/XinLiGH/RingBuffer.git
+	branch = master
