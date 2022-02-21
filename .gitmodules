@@ -2,3 +2,7 @@
 	path = subs/tutorial/mediajourney
 	url = https://github.com/ayyb1988/mediajourney.git
 	branch = main
+[submodule "subs/tutorial/rtspserver"]
+	path = subs/tutorial/rtspserver
+	url = https://github.com/lihuan545890/rtspserver
+	branch = master
