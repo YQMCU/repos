@@ -22,3 +22,19 @@
 	path = subs/openutil/ini_parser
 	url = https://github.com/jhpy1024/ini_parser.git
 	branch = master
+[submodule "subs/openutil/cpp-httplib"]
+	path = subs/openutil/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+	branch = master
+[submodule "subs/openutil/CJsonObject"]
+	path = subs/openutil/CJsonObject
+	url = https://github.com/Bwar/CJsonObject.git
+	branch = master
+[submodule "subs/openutil/aws-sdk-cpp"]
+	path = subs/openutil/aws-sdk-cpp
+	url = https://github.com/aws/aws-sdk-cpp.git
+	branch = main
+[submodule "subs/openutil/websocketpp"]
+	path = subs/openutil/websocketpp
+	url = https://github.com/zaphoyd/websocketpp
+	branch = master

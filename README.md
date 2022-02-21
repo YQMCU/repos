@@ -40,3 +40,27 @@ https://github.com/cesanta/mongoose.git
 https://github.com/jhpy1024/ini_parser.git
 
 基于C++的单hpp文件实现的ini文件读取库
+
+## [cpp-httplib](https://github.com/yqmcu/repos/tree/main/subs/openutil)
+
+https://github.com/yhirose/cpp-httplib.git
+
+基于C++的单hpp文件实现的http库
+
+## [CJsonObject](https://github.com/yqmcu/repos/tree/main/subs/openutil)
+
+https://github.com/Bwar/CJsonObject.git
+
+基于C/C++实现的，对于CJson封装的CJsonObject库
+
+## [aws-sdk-cpp](https://github.com/yqmcu/repos/tree/main/subs/openutil)
+
+https://github.com/aws/aws-sdk-cpp.git
+
+基于C++开发的亚马逊云的SDK
+
+## [websocketpp](https://github.com/yqmcu/repos/tree/main/subs/openutil)
+
+https://github.com/zaphoyd/websocketpp.git
+
+基于c++的复杂websocket开发库
